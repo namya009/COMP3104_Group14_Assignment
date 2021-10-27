@@ -1,0 +1,4 @@
+DevOps. The DevOps methodology is the newcomer to the SDLC scene. In a DevOps model,
+Developers and Operations teams work together closely — and sometimes as one team 
+to accelerate innovation and the deployment of higher-quality and more reliable software
+products and functionalities
