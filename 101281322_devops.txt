@@ -14,3 +14,8 @@ velocity: evolving and improving products at a faster pace than organizations us
  administrators and aligning technological projects to business requirements. 
  DevOps can change the software delivery chain, services, job roles, IT tools and 
  best practices.
+
+ DevOps influences the application lifecycle throughout its plan, develop, deliver, 
+ and operate phases. Each phase relies on the others, and the phases are not 
+ role-specific. In a true DevOps culture, each role is involved in each phase to 
+ some extent.
