@@ -1,8 +1,14 @@
-A DevOps engineer is an IT professional who works with software developers, 
+    A DevOps engineer is an IT professional who works with software developers, 
 system operators (SysOps) and other production IT staff to oversee code releases 
 and deployments.
 
-DevOps is all about the blend of development and operations. It is an ethos that 
+    DevOps is all about the blend of development and operations. It is an ethos that 
 underlines the significance of cooperation and correspondence between software 
 engineers and creation IT specialists while mechanizing the usage of software and 
 framework changes.
+
+    DevOps is a smart career option in today's world. DevOps promotes a culture of 
+trust between team members and risk-sharing. It encourages teams to continuously 
+experiment to improve the company's products and services. Researches have also 
+shown that in the coming years DevOps will be the main hiring criteria for 46% of 
+the IT companies.
