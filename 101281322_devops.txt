@@ -1,1 +1,16 @@
-DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+    DevOps is the combination of cultural philosophies, practices, and tools that 
+increases an organization's ability to deliver applications and services at high 
+velocity: evolving and improving products at a faster pace than organizations using
+ traditional software development and infrastructure management processes.
+
+    The word DevOps is a combination of the terms development and operations, meant to
+ represent a collaborative or shared approach to the tasks performed by a company's 
+ application development and IT operations teams. In its broadest meaning, DevOps 
+ is a philosophy that promotes better communication and collaboration between these 
+ teams -- and others -- in an organization. In its most narrow interpretation, 
+ DevOps describes the adoption of iterative software development, automation and 
+ programmable infrastructure deployment and maintenance. The term also covers 
+ culture changes, such as building trust and cohesion between developers and systems 
+ administrators and aligning technological projects to business requirements. 
+ DevOps can change the software delivery chain, services, job roles, IT tools and 
+ best practices.
