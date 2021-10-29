@@ -1,4 +1,5 @@
 By having a good understanding of devops it gives us a competitive advantage to organize.
 This makes it easier on us to improve and create products faster.
 DevOps collaboration helps operations and development to reduce implementation failures.
-Have shorter development cycles, and improve internal communication.
+Have shorter development cycles.
+Improve internal communication.
