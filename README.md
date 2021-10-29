@@ -29,8 +29,8 @@ merge 101281322-namya branch to main
 - [x] All files updated and committed
 
 101287632-Satabdi branch:
-Created branch 101287632-Satabdi
-all three txt files are created
+-Created branch 101287632-Satabdi
+all three txt files are created:
 - 101287632_gb.txt
 - 101287632_devops.txt
 - 101287632_sdlc.txt
