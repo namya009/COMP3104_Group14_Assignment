@@ -1,1 +1,7 @@
-Devops has garnered many adherents, though also its fair share of criticism. One of the things that is potentially a roadblock for uptake of DevOps in the enterprise has been the internal culture of many organizations. With so many new ideas and tools out there, it can feel like your company doesn’t get it at all, and even perhaps fears DevOps.
+Devops has garnered many adherents, though also its fair share of criticism.
+One of the things that is potentially a roadblock for uptake of DevOps in the enterprise has been the internal culture of many organizations.
+With so many new ideas and tools out there, it can feel like your company doesn’t get it at all, and even perhaps fears DevOps.
+
+Devops has garnered many adherents, though also its fair share of criticism.
+One of the things that is potentially a roadblock for uptake of DevOps in the enterprise has been the internal culture of many organizations.
+With so many new ideas and tools out there, it can feel like your company doesn’t get it at all, and even perhaps fears DevOps.
