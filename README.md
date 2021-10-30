@@ -35,3 +35,11 @@ all three txt files are created:
 - 101287632_devops.txt
 - 101287632_sdlc.txt
 all updates and commmits are done
+
+
+101276714-Pruthvi branch:
+- [x] 101276714_Pruthvi branch created
+- [x] 101276714_gb.txt created
+- [x] 101276714_devops.txt created
+- [x] 101276714_sdlc.txt created
+- [x] All files updated and committed
